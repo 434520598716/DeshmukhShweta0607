@@ -1,5 +1,7 @@
 Ranking of Test Cricket player using PCA and Weighted Moving Average
+
 Abstract:-
+
 Now days, cricket is the most popular sport worldwide. To chose best team for a cricket match, 
 measuring each player's performance is essential. As cricket is team game, team's performance 
 is dependent on the performance of its members. Due to the interrelated nature of the variables 
